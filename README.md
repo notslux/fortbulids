@@ -1,8 +1,6 @@
 # Fortnite Manifest Archive
-Largest archive of all known Fortnite manifests.
-Thanks to [Polynite](https://github.com/polynite/fn-releases) and their contributors for some of the manifest IDs.
+Largest archive of all known Fortnite manifests
 
-If you have a manifest ID (even if you do not have the corresponding file) that you which to add, please private message me on discord: **VastBlast#0001** or join the server: [discord.gg/w3ZnS74](https://discord.gg/w3ZnS74)
 # Windows Manifests
 |Version|Manifest ID|Download|
 |--|--|--|
